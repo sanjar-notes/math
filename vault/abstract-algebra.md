@@ -1,3 +1,4 @@
+archived repo - https://github.com/sanjar-notes/linear-algebra
 
 # 1. Motivation
 
